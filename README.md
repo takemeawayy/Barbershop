@@ -27,7 +27,7 @@ This page is Fully adaptive and has some cool features in it, go check it out!
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat)
 ![](https://img.shields.io/badge/Compile-Gulp-red?style=flat&logo=gulp)
 
-I really like using Tailiwind CSS, it saves a lot of time and it is really comfortable. I used this Gulp set up so I can easily compile Tailwind into CSS + minify HTML + CSS + JS + images, so they don't take too much memory.
+I really like using Tailiwind CSS, it saves a lot of time and it is really comfortable. I used this Gulp setup so I can easily compile Tailwind into CSS and minify HTML + CSS + JS + images, so they don't take too much memory.
 
 <h1 align="center">
 Preview of the page (Laptop, Mobile)
