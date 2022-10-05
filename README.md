@@ -21,7 +21,7 @@ Barbershop Landing Page
 </p>
 
 This page is Fully adaptive and has some cool features in it, go check it out! </br>
-Demo: https://takemeawayy.github.io/Barbershop/public/index.html
+Demo: https://takemeawayy.github.io/Barbershop/build/index.html
 
 ### Here's what I used in developing this project:
 
