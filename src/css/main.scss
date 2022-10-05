@@ -29,7 +29,7 @@ body {
 
     .swiper-button-prev-main,
     .swiper-button-next-main {
-        @apply text-white text-5xl hidden md:block;
+        @apply text-white text-5xl hidden md:block cursor-pointer;
     }
 }
 
@@ -224,6 +224,11 @@ body {
 
                 .arrows {
                     @apply hidden absolute lg:flex bottom-[5%] right-0 z-50 gap-4 items-center font-semibold text-lg;
+
+                    .swiper-button-next-unique,
+                    .swiper-button-prev-unique {
+                        @apply cursor-pointer;
+                    }
                 }
                 
                 .swiper-button-next-unique.swiper-button-disabled,
@@ -238,6 +243,11 @@ body {
                 .swiper-button-next-unique.swiper-button-disabled,
                 .swiper-button-prev-unique.swiper-button-disabled {
                     opacity: .5 !important;
+                }
+
+                .swiper-button-next-unique,
+                .swiper-button-prev-unique {
+                    @apply cursor-pointer;
                 }
             }
 
